@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "cypress:run:chrome": "cypress run --browser chrome",
     "cypress:run:edge": "cypress run --browser edge",
+    "cypress:run:firefox": "cypress run --browser firefox",
+    "cypress:run:electron": "cypress run --browser electron",
     "cypress:open": "cypress open"
   },
   "author": "Khadija",
